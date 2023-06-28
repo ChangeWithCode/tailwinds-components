@@ -1,7 +1,7 @@
 const Table1 = () => {
     return ( 
 
-        <section class="container mx-4 px-4">
+        <section class="container mx-auto">
   <div class="mt-6 md:flex md:items-center md:justify-between">
     <div class="flex items-center gap-x-3">
       <button class="flex w-1/2 items-center justify-center gap-x-2 rounded-lg border bg-white px-5 py-2 text-sm text-gray-700 transition-colors duration-200 hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-200 dark:hover:bg-gray-800 sm:w-auto">
